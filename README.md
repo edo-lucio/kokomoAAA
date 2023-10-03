@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @kokomoAAA
-- 👀 I’m interested in everything related to finance, DeFi and Blockchain development. 
-- 🌱 I’m currently learning NodeJs, Web3 library and Python
-- 💞️ I’m looking to collaborate on dApp ideas :)
-- 📫 reach me on assassineeeto@gmail.com
+- 👋 Hi, I’m @edo-lucio
+- 👀 I'm a Data Science MSc student
+- 🌱 Here you will find some of my personal projects carried on during my Bachelor years (some of them are unrelated to Data Science)
+- 💞️ Always looking forward to find intersting datasets to analyze !
+
+Reach me on edo.luc53@gmail.com
+
 
